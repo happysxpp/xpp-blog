@@ -19,7 +19,7 @@ To enable emoji globally, set `enableEmoji` to `true` in your site’s [configur
 
 The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
 
-测试表情添加
+测试表情添加:hushed::hushed::hushed:
 
 ***
 

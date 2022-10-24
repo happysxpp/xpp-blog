@@ -7,25 +7,18 @@ weight: 1
 
 **A simple and beautiful Hugo theme based on GitHub's Primer CSS**
 
-This theme would be a perfect fit if you are used to GitHub style pages.  
-Hugo-Primer is a theme based on GitHub style css: Primer, and adds some blog like features onto it.
+Hello~ 
 
-Visit the [homepage](https://github.com/qqhann/hugo-primer) to try it now, and leave me a star if you like it!
+I am a  master's student major in CS in the College of Computer and Information Science at [Southwest University](http://www.swu.edu.cn/), Chongqing, China. Advised by both [Prof. Guoqiang Xiao](http://cis.swu.edu.cn/info/1013/1150.htm) and [Prof. Xianfeng Han.](https://scholar.google.com/citations?user=4FaCTFgAAAAJ&hl=en&oi=ao)
 
-## ExampleSite
+## Research
 
-Use the `exampleSite` as a reference, or copy to quick satart.
+Currently, I am focusing on the following topics.
 
-As you navicate through the exampleSite menu,
-"About" and "Blog Example" contents are from hugoBasicExample provided by hugo.
+1. **3D Scene Reconstruction**:  
+   
+   
 
-"Hugo-Primer" is provided by hugo-primer.
-And all of them are optimized to demonstrate how to use hugo-primer.
-
-Notice how we utilize `menu: "main"` in the frontmatter.
-And `weight: 1` decides the order they appear in the nav bar.
-
-Finally, `type: "top"` is a special indicatior.
-It is supposed to be used at top page.
-This page use it too.
-As you might notice, "top" page will not have toc like other single type page.
+2. **3D Scene **Understanding****:  
+   
+   

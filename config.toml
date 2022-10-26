@@ -20,11 +20,11 @@ enableEmoji = true
 
 [params]
 description = "HappyXpp Blog"
-#twitter = ""
+twitter = ""
 useIcon = false
-#useTwitterCard = true
-# exampleSite must not have js share widget: #36
-# shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
+useTwitterCard = true
+exampleSite must not have js share widget: #36
+shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
 shareTo = []
 showFooterCredits = true
 math = true

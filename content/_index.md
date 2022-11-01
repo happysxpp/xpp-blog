@@ -17,6 +17,6 @@ Currently, I am focusing on the following topics.
    
    
 
-2. **3D Scene Understanding**:  
+2. **3D Scene Representation**
    
-   
+	> My goal is to allow independent agents to reason about our world given visual observations, such as inferring a complete model of a scene with information on geometry, material, lighting etc. from only few observations, a task that is simple for humans, but currently impossible for AI. - Vincent Sitzmann
